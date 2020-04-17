@@ -6,7 +6,7 @@ description      'Provides resources to help install and configure stunnel'
 source_url       'https://github.com/sous-chefs/chef-stunnel'
 issues_url       'https://github.com/sous-chefs/chef-stunnel/issues'
 version          '4.1.0'
-chef_version     '>= 13'
+chef_version     '>= 12'
 
 supports 'ubuntu'
 supports 'centos'
